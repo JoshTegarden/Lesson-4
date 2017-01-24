@@ -92,6 +92,11 @@ body {
     width:20%;
 }
 
+#favorite-websites {
+    display:flex;
+    text-align: center;
+    width: 50%;
+}
 
 footer {
     
